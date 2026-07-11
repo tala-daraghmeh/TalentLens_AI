@@ -17,10 +17,10 @@ TalentLens AI analyzes a public GitHub repository and compares it with a target 
 ## 🛠 Tech Stack
 
 - Next.js
-- TypeScript
+- python (FastAPI)
 - Google Gemini API
 - GitHub REST API
-- Firebase
+- Firebase Firestore
 - Tailwind CSS
 
 ## 🏆 Built for
