@@ -1,0 +1,21 @@
+Environment secrets
+
+.env
+*.env
+!.env.example
+
+Python
+
+pycache/
+*.pyc
+.venv/
+venv/
+
+Node / frontend
+
+node_modules/
+.next/
+
+OS/editor junk
+
+.DS_Store
